@@ -1,0 +1,8 @@
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\bin\Debug\Projeto_BRASA_STAKEHOUSE.exe.config
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\bin\Debug\Projeto_BRASA_STAKEHOUSE.exe
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\bin\Debug\Projeto_BRASA_STAKEHOUSE.pdb
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\obj\Debug\Projeto_BRASA_STAKEHOUSE.csproj.AssemblyReference.cache
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\obj\Debug\Projeto_BRASA_STAKEHOUSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\obj\Debug\Projeto_BRASA_STAKEHOUSE.csproj.CoreCompileInputs.cache
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\obj\Debug\Projeto_BRASA_STAKEHOUSE.exe
+C:\Users\eaglebspc1\source\repos\Projeto_BRASA_STAKEHOUSE\Projeto_BRASA_STAKEHOUSE\obj\Debug\Projeto_BRASA_STAKEHOUSE.pdb
