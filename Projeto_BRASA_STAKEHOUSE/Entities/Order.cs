@@ -1,25 +1,25 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
 
 namespace Projeto_BRASA_STAKEHOUSE.Entities
 {
     internal class Order
     {
-        public List<Product> Products { get; set; }
 
-        public Order()
-        {
-            Products = new List<Product>();
-        }
+		// Construtores da classe "Order"
+		public List<Product> Products { get; set; }
+        public Client Client { get; set; }
 
-        public void AddProductToOrder(Product product)
-        {
-            Products.Add(product);
-        }
-
-        public void AddProductsToCart(Cart cart)
-        {
-            cart.Products.AddRange(Products);
-            Products.Clear();
-        }
-    }
+		public Order()
+		{
+		}
+		public Order(List<Product> products, Client client)
+		{
+			Products = products;
+			Client = client;
+		}
+	}
 }
